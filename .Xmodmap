@@ -1,0 +1,14 @@
+keycode 90 = Right Right Right Right
+keycode 62 = Up Up Up Up
+keycode 114 = Down Down Down Down
+keycode 116 = Left Left Left Left
+keycode 111 = Shift_R NoSymbol Shift_R
+clear Shift
+add Shift = Shift_R
+keycode 113 = Control_R NoSymbol Control_R
+clear Control
+add Control = Control_R Control_L
+keycode 84 = Home Home Home Home
+keycode 85 = End End End End
+keycode 80 = Prior Prior Prior Prior
+keycode 81 = Next Next Next Next
